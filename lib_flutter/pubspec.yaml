@@ -18,7 +18,7 @@ description: A new flutter module project.
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   flutter:
@@ -82,5 +82,5 @@ flutter:
   # identifiers, which may be completely independent or the same as these.
   module:
     androidX: true
-    androidPackage: me.daemon.lib_flutter
-    iosBundleIdentifier: me.daemon.libFlutter
+    androidPackage: me.daemon.flutter
+    iosBundleIdentifier: me.daemon.flutter

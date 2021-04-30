@@ -12,7 +12,7 @@ object SDK {
     fun openFlutter(activity: Activity) {
         activity.startActivity(
                 FlutterActivity.createDefaultIntent(activity)
-        );
+        )
     }
 
 }
